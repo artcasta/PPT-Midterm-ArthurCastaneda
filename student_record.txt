@@ -1,0 +1,7 @@
+STUDENT RECORD
+
+Name: Arthur S. Castaneda
+Course: BS Computer Science – Software Engineering
+Year Level: 3 BSCS
+Favorite Programming Language: Python
+Career Goal: To become a skilled software developer who creates useful and reliable applications.
